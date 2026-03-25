@@ -1,3 +1,4 @@
+package com.splendor.core;
 public class ReserveCard extends Action {
     private DevelopmentCard card;
 
