@@ -1,3 +1,4 @@
+package com.splendor.core;
 public class TakeGems extends Action {
     private int[] gemsToTake; // Array where indices correspond to GemColor enum ordinals
 
